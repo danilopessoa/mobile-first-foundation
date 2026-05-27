@@ -42,3 +42,4 @@ next-env.d.ts
 /.idea/mobile-first-foundation.iml
 /.idea/modules.xml
 /.idea/vcs.xml
+/.idea/
